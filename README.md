@@ -5,6 +5,8 @@ A complete solution to manage your hotel with multiple admins and a super admin.
 
 We tried to keep it as easy as possible for our juniors so that they can understand and get ideas about the project. Don't forget to follow us for more projects!
 
+> Room Number Format: Character Representing Floor + Floor Number + 00 or 0 + Room Number
+
 # Features
 We Made the UI look Clean and modern with colors where it is needed (such as options, warnings, and success). Here are some other Features:
 -  Welcome Screen
