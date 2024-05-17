@@ -1,6 +1,12 @@
 # Hotel Management System Using C++
 A Complete Hotel Management System Developed In C++ As A Project of IUBAT - CSC284
 
+Watch The Video Below For The Demo:
+
+[![Hotel Management System Using C++](https://img.youtube.com/vi/krRG3KZz4AI/0.jpg)](https://www.youtube.com/watch?v=krRG3KZz4AI)
+
+[Watch Demo Video](https://youtu.be/krRG3KZz4AI?si=jkfVzlgYhDCkXdWV)
+
 A complete solution to manage your hotel with multiple admins and a super admin. Where only the super admin can add new admins. All admins can manage the rooms, book a room for the customers, check all rooms, edit the price of the rooms, add new customers, and vacate a room when customers leave!
 
 We tried to keep it as easy as possible for our juniors so that they can understand and get ideas about the project. Don't forget to follow us for more projects!
