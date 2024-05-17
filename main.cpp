@@ -600,7 +600,7 @@ int main()
 
     // Intro Screen
     cout << "======================================"<<endl;
-    cout << "|| Luminous Hotel Management System ||"<<endl;
+    cout << "|| ZealTyro Hotel Management System ||"<<endl;
     cout << "======================================"<<endl<<endl;
     cout << "This Management System is developed as a project of the course - CSC 284\n";
     cout << "Given by our honerable faculty - ["<<YELLOW<<"ASM Shakil Ahamed"<<RESET<<"]\n\n";
